@@ -12,15 +12,15 @@
 
 // WiFi credentials and MQTT server details 
 
-const char* ssid = "psu-iot"; 
+const char* ssid = ""; 
 
-const char* password = "y2nfu9jih82q"; 
+const char* password = ""; 
 
-const char* mqttServer = "41.193.5.154"; 
+const char* mqttServer = ""; 
 
-const int mqttPort = 24500; 
+const int mqttPort = ; 
 
-const char* mqttClientName = "MKRWiFi1010Client"; 
+const char* mqttClientName = ""; 
 
   
 
